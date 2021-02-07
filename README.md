@@ -22,6 +22,4 @@ THEN I find a concise, descriptive title.
 
 Preview -
 
-<img src="Preview-Image.png"
-     alt="Horiseon Preview"
-     style="float: left; margin-right: 10px;" />
+(Horiseon-Inc/Horiseon/assets/Preview-Image.png)
