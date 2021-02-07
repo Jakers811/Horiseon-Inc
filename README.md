@@ -22,4 +22,4 @@ THEN I find a concise, descriptive title.
 
 Preview -
 
-(Horiseon-Inc/Horiseon/assets/Preview-Image.png)
+![](Horiseon-Inc/Horiseon/assets/Preview-Image.png)
